@@ -5,7 +5,7 @@ I am Phat Ngo Trung from Ho Chi Minh, Viet Nam who is a Frontend Developer, love
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=phatnt96&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
